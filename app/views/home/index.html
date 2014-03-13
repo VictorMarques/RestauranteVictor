@@ -1,0 +1,140 @@
+<html lang="en">
+<head>
+    <title>Home</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/slider.css">
+    <link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
+    <script src="js/jquery-1.7.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/tms-0.4.1.js"></script>
+    <script>
+        $(document).ready(function(){                   
+            $('.slider')._TMS({
+                show:0,
+                pauseOnHover:true,
+                prevBu:false,
+                nextBu:false,
+                playBu:false,
+                duration:700,
+                preset:'fade',
+                pagination:true,
+                pagNums:false,
+                slideshow:3000,
+                numStatus:false,
+                banners:false,
+                waitBannerAnimation:false,
+                progressBar:false
+            })      
+        });
+    </script>
+    </head>
+<body>
+<div class="bg-top">
+    
+<div id="user_nav" align= "center">
+  <% if user_signed_in? %>
+    Entrou como <%= current_user.email %>. Não é você?
+    <%= link_to "Sair", destroy_user_session_path, :method => :delete %>
+  <% else %>
+    <%= link_to "Casdastrar-se", new_user_registration_path %> ou <%= link_to "Entrar", new_user_session_path %>
+  <% end %>
+</div>
+<div class="bgr">
+    <header>
+                <h1><a href="http://localhost:3000/home"><img src="https://lh6.googleusercontent.com/-uW7BA4WRbJ8/UO2meYp5j2I/AAAAAAAAAFY/yVGTQIVj5_Y/s350/logo.jpg" alt=""></a></h1>
+        <nav>  
+            <ul class="menu">
+
+                <li class="current" align="center"><a href="http://localhost:3000/home">Home</a></li>
+                <li><a href="http://localhost:3000/restaurantes">Restaurantes</a></li>
+                <li><a href="http://localhost:3000/clientes">Clientes</a></li>
+                <li><a href="http://localhost:3000/qualificacoes">Qualificacoes</a></li>
+                 <li><a href="http://localhost:3000/comentarios">Comentarios</a></li>
+                 </ul>
+            <div class="clear"></div>
+         </nav>
+        <div id="slide">        
+            <div class="slider">
+                <ul class="items">
+                    <li><img src="https://lh5.googleusercontent.com/-2vOzhU7SEFI/UO2mp9VtX1I/AAAAAAAAAHw/uCLwvBeiE5I/s948/slider-1.jpg" alt="" /></li>
+                    <li><img src="https://lh5.googleusercontent.com/-YFSBbWKiLwc/UO2mrn5KZaI/AAAAAAAAAH4/58gCEleAX_w/s948/slider-2.jpg" alt="" /></li>
+                    <li><img src="https://lh3.googleusercontent.com/-eTHwEO7pXqU/UO2mrjbAddI/AAAAAAAAAIM/b4CTds-5_tw/s948/slider-3.jpg" alt="" /></li>
+                </ul>
+                </div>
+          </div>
+    </header>
+        <section id="content"><div class="ic"></div>
+       <div class="block-1">
+        <div class="border-right">
+            <div class="block-1-title">
+                <span>01.</span>
+                <div class="text-1">Melhor<strong> Cozinha</strong></div>
+                <strong class="clear"></strong>
+            </div>
+            <p class="border-1">Em nosso site é possível cadastrar os resturante, comída típica do mesmo, saber a nota de cada um dada pelo próprio cliente e muito mais</p>
+            <a href="#" class="link-1">leia mais</a>
+        </div>
+        <div class="border-right">
+            <div class="block-1-title">
+                <span>02.</span>
+                <div class="text-1">Melhor para<strong>o Cliente</strong></div>
+                <strong class="clear"></strong>
+            </div>
+            <p class="border-1">Cadastre os clientes e tenha um controle melhor dos cadastros,veja também as críticas do cliente para com os restaurantes </p>
+            <a href="#" class="link-1">leia mais</a>
+        </div>
+        <div class="border-right">
+            <div class="block-1-title">
+                <span>03.</span>
+                <div class="text-3">Controle dos<strong>dados</strong></div>
+                <strong class="clear"></strong>
+            </div>
+            <p class="border-1"> Tenha acesso aos dados do cliente, restaurante que o mesmo utilizou os serviços, a nota que o cliente deu ao estabelecimento e valor total gasto</p>
+            <a href="#" class="link-1">leia mais</a>
+        </div>
+        <div class="block-1-last">
+            <div class="block-1-title">
+                <span>04.</span>
+                <div class="text-4">Visão<strong>ampla</strong></div>
+                <strong class="clear"></strong>
+            </div>
+          <p class="border-1">Tenha uma visão sistemática de todos os restaurantes e seus pratos  cadastrados com a página de comentários destinada aos clientes</p>
+            <a href="#" class="link-1">leia mais</a>
+        </div>
+       </div>
+
+
+    <div class="block-2 pad-1">
+        <div class="col-1">
+            <h2 class="h2-line">Bem Vindos!</h2>
+            <div class="box-1">
+                <div class="img-border img-indent"><img src="https://lh6.googleusercontent.com/-neafkVTMrNc/UO2mZ8CEXaI/AAAAAAAAAEU/wvon-ZWf6pk/s782/gallery-8-big.jpg" alt=""></div>
+                <div class="extra-wrap">
+                    <p class="it-bold p2">Neste Website tem total seguranca para seu restaurante e para seus clientes.</p> 
+                </div>
+            </div>
+              </div>
+        <div class="col-2 left-2">
+            <fieldset>
+            <h3 class="h3-line top-1">Comentarios:</h3>
+            <div class="box-2 top-2"></div>
+                <div class="content border-1">
+                    <p><img src="images/comment-top.png" alt="" ><span class="clr-1">" Depois de algum tempo você aprende que o importante não é aonde você chegou, e sim, aonde esta indo" Willian Shakespeare.</span><img src="images/comment-bottom.png" alt="" class="second"></p>
+                    <span class="clr-1"><strong>VICTOR MARQUES</strong> <i>(Victor Marques)</i></span>
+                </div>
+                <div class="comment border-1 top-3">
+                    <p><img src="images/comment-top.png" alt="" ><span class="clr-1"></span><img src="images/comment-bottom.png" alt="" class="second"></p>
+                    <span class="clr-1"> "Recomendo o restaurante, muito bom e organizado"<strong> Willy H. da SIlva</strong> <i>(Willy H. da SIlva)</i></span>
+                </div>
+                </div>
+                </div>
+            </fieldset>  
+             </div>      
+        </div>
+          <footer>
+      <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  </footer>     
+</body>
+</html>  

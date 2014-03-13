@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+  <title>Programa de Qualificação de Restaurante</title>
+  <title>VoltaPrato</title>
+ 
+  <%= stylesheet_link_tag "scaffolds" %>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+		
+<%= yield %>
+<script type="text/javascript">
+<%= yield :js %>
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1729 @@
+Searching 367 files for "Desenvolvido por"
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/index.html.erb:
+  128  </div>
+  129    <footer>
+  130:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  131    </footer>     
+  132  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/show.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/edit.html.erb:
+   45  </div>
+   46    <footer>
+   47:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   48    </footer>     
+   49  </body>
+
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/index.html.erb:
+  136  </div>
+  137    <footer>
+  138:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  139    </footer>     
+  140  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/show.html.erb:
+   66  </div>
+   67    <footer>
+   68:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   69    </footer>     
+   70  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/confirmations/new.html.erb:
+   41   </div></div></div>
+   42   <footer>
+   43:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   44    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/confirmation_instructions.html.erb:
+   33  </div></div></div>
+   34   <footer>
+   35:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   36    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/reset_password_instructions.html.erb:
+   36  </div></div></div>
+   37   <footer>
+   38:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   39    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/unlock_instructions.html.erb:
+   35  </div></div></div>
+   36   <footer>
+   37:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   38    </footer>    
+   39  
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/edit.html.erb:
+   44  </div></div></div>
+   45   <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/new.html.erb:
+   40  </div></div></div>
+   41   <footer>
+   42:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   43    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/edit.html.erb:
+   53  </div></div></div>
+   54   <footer>
+   55:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   56    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/new.html.erb:
+   46  </div></div></div>
+   47   <footer>
+   48:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   49    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/sessions/new.html.erb:
+   47  <%= render :partial => "devise/shared/links" %></div></div></div>
+   48   <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>    
+   51    
+
+/home/r3cotia/Desktop/Restaurante/app/views/home/index.html:
+  135          </div>
+  136            <footer>
+  137:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  138    </footer>     
+  139  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/edit.html.erb:
+   49  </div>
+   50    <footer>
+   51:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   52    </footer>     
+   53  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/index.html.erb:
+  138  </div>
+  139    <footer>
+  140:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  141    </footer>     
+  142  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/new.html.erb:
+   47  </div>
+   48    <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>     
+   51  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/show.html.erb:
+   78  </div>
+   79    <footer>
+   80:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   81    </footer>     
+   82  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/edit.html.erb:
+   67  </div>
+   68    <footer>
+   69:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   70    </footer>     
+   71  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/index.html.erb:
+  140  </div>
+  141    <footer>
+  142:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  143    </footer>     
+  144  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/new.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/show.html.erb:
+   79  </div>
+   80    <footer>
+   81:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   82    </footer>     
+   83  </body>
+
+25 matches across 25 files
+
+
+Searching 367 files for "Desenvolvido por"
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/index.html.erb:
+  128  </div>
+  129    <footer>
+  130:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  131    </footer>     
+  132  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/show.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/edit.html.erb:
+   45  </div>
+   46    <footer>
+   47:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   48    </footer>     
+   49  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/index.html.erb:
+  136  </div>
+  137    <footer>
+  138:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  139    </footer>     
+  140  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/show.html.erb:
+   66  </div>
+   67    <footer>
+   68:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   69    </footer>     
+   70  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/confirmations/new.html.erb:
+   41   </div></div></div>
+   42   <footer>
+   43:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   44    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/confirmation_instructions.html.erb:
+   33  </div></div></div>
+   34   <footer>
+   35:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   36    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/reset_password_instructions.html.erb:
+   36  </div></div></div>
+   37   <footer>
+   38:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   39    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/unlock_instructions.html.erb:
+   35  </div></div></div>
+   36   <footer>
+   37:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   38    </footer>    
+   39  
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/edit.html.erb:
+   44  </div></div></div>
+   45   <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/new.html.erb:
+   40  </div></div></div>
+   41   <footer>
+   42:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   43    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/edit.html.erb:
+   53  </div></div></div>
+   54   <footer>
+   55:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   56    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/new.html.erb:
+   46  </div></div></div>
+   47   <footer>
+   48:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   49    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/sessions/new.html.erb:
+   47  <%= render :partial => "devise/shared/links" %></div></div></div>
+   48   <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>    
+   51    
+
+/home/r3cotia/Desktop/Restaurante/app/views/home/index.html:
+  135          </div>
+  136            <footer>
+  137:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  138    </footer>     
+  139  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/edit.html.erb:
+   49  </div>
+   50    <footer>
+   51:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   52    </footer>     
+   53  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/index.html.erb:
+  138  </div>
+  139    <footer>
+  140:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  141    </footer>     
+  142  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/new.html.erb:
+   47  </div>
+   48    <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>     
+   51  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/show.html.erb:
+   78  </div>
+   79    <footer>
+   80:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   81    </footer>     
+   82  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/edit.html.erb:
+   67  </div>
+   68    <footer>
+   69:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   70    </footer>     
+   71  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/index.html.erb:
+  140  </div>
+  141    <footer>
+  142:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  143    </footer>     
+  144  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/new.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/show.html.erb:
+   79  </div>
+   80    <footer>
+   81:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   82    </footer>     
+   83  </body>
+
+25 matches across 25 files
+
+
+Searching 367 files for "Desenvolvido por"
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/index.html.erb:
+  128  </div>
+  129    <footer>
+  130:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  131    </footer>     
+  132  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/show.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/edit.html.erb:
+   45  </div>
+   46    <footer>
+   47:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   48    </footer>     
+   49  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/index.html.erb:
+  136  </div>
+  137    <footer>
+  138:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba</p> 
+  139    </footer>     
+  140  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/show.html.erb:
+   66  </div>
+   67    <footer>
+   68:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   69    </footer>     
+   70  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/confirmations/new.html.erb:
+   41   </div></div></div>
+   42   <footer>
+   43:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   44    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/confirmation_instructions.html.erb:
+   33  </div></div></div>
+   34   <footer>
+   35:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   36    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/reset_password_instructions.html.erb:
+   36  </div></div></div>
+   37   <footer>
+   38:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   39    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/unlock_instructions.html.erb:
+   35  </div></div></div>
+   36   <footer>
+   37:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   38    </footer>    
+   39  
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/edit.html.erb:
+   44  </div></div></div>
+   45   <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/new.html.erb:
+   40  </div></div></div>
+   41   <footer>
+   42:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   43    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/edit.html.erb:
+   53  </div></div></div>
+   54   <footer>
+   55:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   56    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/new.html.erb:
+   46  </div></div></div>
+   47   <footer>
+   48:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   49    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/sessions/new.html.erb:
+   47  <%= render :partial => "devise/shared/links" %></div></div></div>
+   48   <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>    
+   51    
+
+/home/r3cotia/Desktop/Restaurante/app/views/home/index.html:
+  135          </div>
+  136            <footer>
+  137:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  138    </footer>     
+  139  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/edit.html.erb:
+   49  </div>
+   50    <footer>
+   51:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   52    </footer>     
+   53  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/index.html.erb:
+  138  </div>
+  139    <footer>
+  140:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  141    </footer>     
+  142  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/new.html.erb:
+   47  </div>
+   48    <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>     
+   51  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/show.html.erb:
+   78  </div>
+   79    <footer>
+   80:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   81    </footer>     
+   82  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/edit.html.erb:
+   67  </div>
+   68    <footer>
+   69:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   70    </footer>     
+   71  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/index.html.erb:
+  140  </div>
+  141    <footer>
+  142:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  143    </footer>     
+  144  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/new.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/show.html.erb:
+   79  </div>
+   80    <footer>
+   81:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   82    </footer>     
+   83  </body>
+
+25 matches across 25 files
+
+
+Searching 367 files for "Desenvolvido por"
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/index.html.erb:
+  128  </div>
+  129    <footer>
+  130:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  131    </footer>     
+  132  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/show.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/edit.html.erb:
+   45  </div>
+   46    <footer>
+   47:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   48    </footer>     
+   49  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/index.html.erb:
+  136  </div>
+  137    <footer>
+  138:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  139    </footer>     
+  140  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/show.html.erb:
+   66  </div>
+   67    <footer>
+   68:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   69    </footer>     
+   70  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/confirmations/new.html.erb:
+   41   </div></div></div>
+   42   <footer>
+   43:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   44    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/confirmation_instructions.html.erb:
+   33  </div></div></div>
+   34   <footer>
+   35:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   36    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/reset_password_instructions.html.erb:
+   36  </div></div></div>
+   37   <footer>
+   38:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   39    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/unlock_instructions.html.erb:
+   35  </div></div></div>
+   36   <footer>
+   37:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   38    </footer>    
+   39  
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/edit.html.erb:
+   44  </div></div></div>
+   45   <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/new.html.erb:
+   40  </div></div></div>
+   41   <footer>
+   42:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   43    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/edit.html.erb:
+   53  </div></div></div>
+   54   <footer>
+   55:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   56    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/new.html.erb:
+   46  </div></div></div>
+   47   <footer>
+   48:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   49    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/sessions/new.html.erb:
+   47  <%= render :partial => "devise/shared/links" %></div></div></div>
+   48   <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>    
+   51    
+
+/home/r3cotia/Desktop/Restaurante/app/views/home/index.html:
+  135          </div>
+  136            <footer>
+  137:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  138    </footer>     
+  139  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/edit.html.erb:
+   49  </div>
+   50    <footer>
+   51:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   52    </footer>     
+   53  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/index.html.erb:
+  138  </div>
+  139    <footer>
+  140:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  141    </footer>     
+  142  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/new.html.erb:
+   47  </div>
+   48    <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>     
+   51  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/show.html.erb:
+   78  </div>
+   79    <footer>
+   80:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   81    </footer>     
+   82  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/edit.html.erb:
+   67  </div>
+   68    <footer>
+   69:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   70    </footer>     
+   71  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/index.html.erb:
+  140  </div>
+  141    <footer>
+  142:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  143    </footer>     
+  144  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/new.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/show.html.erb:
+   79  </div>
+   80    <footer>
+   81:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   82    </footer>     
+   83  </body>
+
+25 matches across 25 files
+
+
+Searching 367 files for "Desenvolvido por"
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/index.html.erb:
+  128  </div>
+  129    <footer>
+  130:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  131    </footer>     
+  132  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/show.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/edit.html.erb:
+   45  </div>
+   46    <footer>
+   47:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   48    </footer>     
+   49  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/index.html.erb:
+  136  </div>
+  137    <footer>
+  138:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  139    </footer>     
+  140  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/show.html.erb:
+   66  </div>
+   67    <footer>
+   68:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   69    </footer>     
+   70  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/confirmations/new.html.erb:
+   41   </div></div></div>
+   42   <footer>
+   43:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   44    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/confirmation_instructions.html.erb:
+   33  </div></div></div>
+   34   <footer>
+   35:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   36    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/reset_password_instructions.html.erb:
+   36  </div></div></div>
+   37   <footer>
+   38:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   39    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/unlock_instructions.html.erb:
+   35  </div></div></div>
+   36   <footer>
+   37:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   38    </footer>    
+   39  
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/edit.html.erb:
+   44  </div></div></div>
+   45   <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/new.html.erb:
+   40  </div></div></div>
+   41   <footer>
+   42:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   43    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/edit.html.erb:
+   53  </div></div></div>
+   54   <footer>
+   55:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   56    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/new.html.erb:
+   46  </div></div></div>
+   47   <footer>
+   48:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   49    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/sessions/new.html.erb:
+   47  <%= render :partial => "devise/shared/links" %></div></div></div>
+   48   <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>    
+   51    
+
+/home/r3cotia/Desktop/Restaurante/app/views/home/index.html:
+  135          </div>
+  136            <footer>
+  137:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  138    </footer>     
+  139  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/edit.html.erb:
+   49  </div>
+   50    <footer>
+   51:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   52    </footer>     
+   53  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/index.html.erb:
+  138  </div>
+  139    <footer>
+  140:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  141    </footer>     
+  142  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/new.html.erb:
+   47  </div>
+   48    <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>     
+   51  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/show.html.erb:
+   78  </div>
+   79    <footer>
+   80:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   81    </footer>     
+   82  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/edit.html.erb:
+   67  </div>
+   68    <footer>
+   69:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   70    </footer>     
+   71  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/index.html.erb:
+  140  </div>
+  141    <footer>
+  142:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  143    </footer>     
+  144  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/new.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/show.html.erb:
+   79  </div>
+   80    <footer>
+   81:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   82    </footer>     
+   83  </body>
+
+25 matches across 25 files
+
+
+Searching 367 files for "Desenvolvido por"
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/index.html.erb:
+  128  </div>
+  129    <footer>
+  130:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  131    </footer>     
+  132  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/show.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/edit.html.erb:
+   45  </div>
+   46    <footer>
+   47:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   48    </footer>     
+   49  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/index.html.erb:
+  136  </div>
+  137    <footer>
+  138:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  139    </footer>     
+  140  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/show.html.erb:
+   66  </div>
+   67    <footer>
+   68:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   69    </footer>     
+   70  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/confirmations/new.html.erb:
+   41   </div></div></div>
+   42   <footer>
+   43:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   44    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/confirmation_instructions.html.erb:
+   33  </div></div></div>
+   34   <footer>
+   35:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   36    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/reset_password_instructions.html.erb:
+   36  </div></div></div>
+   37   <footer>
+   38:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   39    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/unlock_instructions.html.erb:
+   35  </div></div></div>
+   36   <footer>
+   37:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   38    </footer>    
+   39  
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/edit.html.erb:
+   44  </div></div></div>
+   45   <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/new.html.erb:
+   40  </div></div></div>
+   41   <footer>
+   42:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   43    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/edit.html.erb:
+   53  </div></div></div>
+   54   <footer>
+   55:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   56    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/new.html.erb:
+   46  </div></div></div>
+   47   <footer>
+   48:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   49    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/sessions/new.html.erb:
+   47  <%= render :partial => "devise/shared/links" %></div></div></div>
+   48   <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>    
+   51    
+
+/home/r3cotia/Desktop/Restaurante/app/views/home/index.html:
+  135          </div>
+  136            <footer>
+  137:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  138    </footer>     
+  139  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/edit.html.erb:
+   49  </div>
+   50    <footer>
+   51:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   52    </footer>     
+   53  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/index.html.erb:
+  138  </div>
+  139    <footer>
+  140:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  141    </footer>     
+  142  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/new.html.erb:
+   47  </div>
+   48    <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>     
+   51  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/show.html.erb:
+   78  </div>
+   79    <footer>
+   80:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   81    </footer>     
+   82  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/edit.html.erb:
+   67  </div>
+   68    <footer>
+   69:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   70    </footer>     
+   71  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/index.html.erb:
+  140  </div>
+  141    <footer>
+  142:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  143    </footer>     
+  144  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/new.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/show.html.erb:
+   79  </div>
+   80    <footer>
+   81:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   82    </footer>     
+   83  </body>
+
+25 matches across 25 files
+
+
+Searching 367 files for "Desenvolvido por"
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/index.html.erb:
+  128  </div>
+  129    <footer>
+  130:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  131    </footer>     
+  132  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/show.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/edit.html.erb:
+   45  </div>
+   46    <footer>
+   47:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   48    </footer>     
+   49  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/index.html.erb:
+  136  </div>
+  137    <footer>
+  138:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  139    </footer>     
+  140  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/show.html.erb:
+   66  </div>
+   67    <footer>
+   68:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   69    </footer>     
+   70  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/confirmations/new.html.erb:
+   41   </div></div></div>
+   42   <footer>
+   43:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   44    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/confirmation_instructions.html.erb:
+   33  </div></div></div>
+   34   <footer>
+   35:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   36    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/reset_password_instructions.html.erb:
+   36  </div></div></div>
+   37   <footer>
+   38:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   39    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/unlock_instructions.html.erb:
+   35  </div></div></div>
+   36   <footer>
+   37:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   38    </footer>    
+   39  
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/edit.html.erb:
+   44  </div></div></div>
+   45   <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/new.html.erb:
+   40  </div></div></div>
+   41   <footer>
+   42:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   43    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/edit.html.erb:
+   53  </div></div></div>
+   54   <footer>
+   55:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   56    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/new.html.erb:
+   46  </div></div></div>
+   47   <footer>
+   48:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   49    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/sessions/new.html.erb:
+   47  <%= render :partial => "devise/shared/links" %></div></div></div>
+   48   <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>    
+   51    
+
+/home/r3cotia/Desktop/Restaurante/app/views/home/index.html:
+  135          </div>
+  136            <footer>
+  137:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  138    </footer>     
+  139  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/edit.html.erb:
+   49  </div>
+   50    <footer>
+   51:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   52    </footer>     
+   53  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/index.html.erb:
+  138  </div>
+  139    <footer>
+  140:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  141    </footer>     
+  142  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/new.html.erb:
+   47  </div>
+   48    <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>     
+   51  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/show.html.erb:
+   78  </div>
+   79    <footer>
+   80:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   81    </footer>     
+   82  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/edit.html.erb:
+   67  </div>
+   68    <footer>
+   69:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   70    </footer>     
+   71  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/index.html.erb:
+  140  </div>
+  141    <footer>
+  142:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  143    </footer>     
+  144  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/new.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/show.html.erb:
+   79  </div>
+   80    <footer>
+   81:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   82    </footer>     
+   83  </body>
+
+25 matches across 25 files
+
+
+Searching 367 files for "Desenvolvido por"
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/index.html.erb:
+  128  </div>
+  129    <footer>
+  130:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  131    </footer>     
+  132  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/show.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/edit.html.erb:
+   45  </div>
+   46    <footer>
+   47:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   48    </footer>     
+   49  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/index.html.erb:
+  136  </div>
+  137    <footer>
+  138:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  139    </footer>     
+  140  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/show.html.erb:
+   66  </div>
+   67    <footer>
+   68:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   69    </footer>     
+   70  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/confirmations/new.html.erb:
+   41   </div></div></div>
+   42   <footer>
+   43:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   44    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/confirmation_instructions.html.erb:
+   33  </div></div></div>
+   34   <footer>
+   35:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   36    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/reset_password_instructions.html.erb:
+   36  </div></div></div>
+   37   <footer>
+   38:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   39    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/unlock_instructions.html.erb:
+   35  </div></div></div>
+   36   <footer>
+   37:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   38    </footer>    
+   39  
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/edit.html.erb:
+   44  </div></div></div>
+   45   <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/new.html.erb:
+   40  </div></div></div>
+   41   <footer>
+   42:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   43    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/edit.html.erb:
+   53  </div></div></div>
+   54   <footer>
+   55:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   56    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/new.html.erb:
+   46  </div></div></div>
+   47   <footer>
+   48:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   49    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/sessions/new.html.erb:
+   47  <%= render :partial => "devise/shared/links" %></div></div></div>
+   48   <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>    
+   51    
+
+/home/r3cotia/Desktop/Restaurante/app/views/home/index.html:
+  135          </div>
+  136            <footer>
+  137:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  138    </footer>     
+  139  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/edit.html.erb:
+   49  </div>
+   50    <footer>
+   51:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   52    </footer>     
+   53  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/index.html.erb:
+  138  </div>
+  139    <footer>
+  140:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  141    </footer>     
+  142  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/new.html.erb:
+   47  </div>
+   48    <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>     
+   51  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/show.html.erb:
+   78  </div>
+   79    <footer>
+   80:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   81    </footer>     
+   82  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/edit.html.erb:
+   67  </div>
+   68    <footer>
+   69:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   70    </footer>     
+   71  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/index.html.erb:
+  140  </div>
+  141    <footer>
+  142:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  143    </footer>     
+  144  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/new.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/show.html.erb:
+   79  </div>
+   80    <footer>
+   81:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   82    </footer>     
+   83  </body>
+
+25 matches across 25 files
+
+
+Searching 367 files for "Desenvolvido por"
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/index.html.erb:
+  128  </div>
+  129    <footer>
+  130:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  131    </footer>     
+  132  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/show.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/edit.html.erb:
+   45  </div>
+   46    <footer>
+   47:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   48    </footer>     
+   49  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/index.html.erb:
+  136  </div>
+  137    <footer>
+  138:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  139    </footer>     
+  140  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/show.html.erb:
+   66  </div>
+   67    <footer>
+   68:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   69    </footer>     
+   70  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/confirmations/new.html.erb:
+   41   </div></div></div>
+   42   <footer>
+   43:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   44    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/confirmation_instructions.html.erb:
+   33  </div></div></div>
+   34   <footer>
+   35:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   36    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/reset_password_instructions.html.erb:
+   36  </div></div></div>
+   37   <footer>
+   38:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   39    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/unlock_instructions.html.erb:
+   35  </div></div></div>
+   36   <footer>
+   37:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   38    </footer>    
+   39  
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/edit.html.erb:
+   44  </div></div></div>
+   45   <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/new.html.erb:
+   40  </div></div></div>
+   41   <footer>
+   42:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   43    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/edit.html.erb:
+   53  </div></div></div>
+   54   <footer>
+   55:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   56    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/new.html.erb:
+   46  </div></div></div>
+   47   <footer>
+   48:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   49    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/sessions/new.html.erb:
+   47  <%= render :partial => "devise/shared/links" %></div></div></div>
+   48   <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>    
+   51    
+
+/home/r3cotia/Desktop/Restaurante/app/views/home/index.html:
+  135          </div>
+  136            <footer>
+  137:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  138    </footer>     
+  139  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/edit.html.erb:
+   49  </div>
+   50    <footer>
+   51:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   52    </footer>     
+   53  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/index.html.erb:
+  138  </div>
+  139    <footer>
+  140:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  141    </footer>     
+  142  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/new.html.erb:
+   47  </div>
+   48    <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>     
+   51  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/show.html.erb:
+   78  </div>
+   79    <footer>
+   80:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   81    </footer>     
+   82  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/edit.html.erb:
+   67  </div>
+   68    <footer>
+   69:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   70    </footer>     
+   71  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/index.html.erb:
+  140  </div>
+  141    <footer>
+  142:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  143    </footer>     
+  144  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/new.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/show.html.erb:
+   79  </div>
+   80    <footer>
+   81:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   82    </footer>     
+   83  </body>
+
+25 matches across 25 files
+
+
+Searching 367 files for "Desenvolvido por"
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/index.html.erb:
+  128  </div>
+  129    <footer>
+  130:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  131    </footer>     
+  132  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/clientes/show.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/edit.html.erb:
+   45  </div>
+   46    <footer>
+   47:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   48    </footer>     
+   49  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/index.html.erb:
+  136  </div>
+  137    <footer>
+  138:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  139    </footer>     
+  140  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/new.html.erb:
+   44  </div>
+   45    <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>     
+   48  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/comentarios/show.html.erb:
+   66  </div>
+   67    <footer>
+   68:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   69    </footer>     
+   70  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/confirmations/new.html.erb:
+   41   </div></div></div>
+   42   <footer>
+   43:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   44    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/confirmation_instructions.html.erb:
+   33  </div></div></div>
+   34   <footer>
+   35:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   36    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/reset_password_instructions.html.erb:
+   36  </div></div></div>
+   37   <footer>
+   38:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   39    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/mailer/unlock_instructions.html.erb:
+   35  </div></div></div>
+   36   <footer>
+   37:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   38    </footer>    
+   39  
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/edit.html.erb:
+   44  </div></div></div>
+   45   <footer>
+   46:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   47    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/passwords/new.html.erb:
+   40  </div></div></div>
+   41   <footer>
+   42:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   43    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/edit.html.erb:
+   53  </div></div></div>
+   54   <footer>
+   55:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   56    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/registrations/new.html.erb:
+   46  </div></div></div>
+   47   <footer>
+   48:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   49    </footer>    
+
+/home/r3cotia/Desktop/Restaurante/app/views/devise/sessions/new.html.erb:
+   47  <%= render :partial => "devise/shared/links" %></div></div></div>
+   48   <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>    
+   51    
+
+/home/r3cotia/Desktop/Restaurante/app/views/home/index.html:
+  135          </div>
+  136            <footer>
+  137:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  138    </footer>     
+  139  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/edit.html.erb:
+   49  </div>
+   50    <footer>
+   51:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   52    </footer>     
+   53  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/index.html.erb:
+  138  </div>
+  139    <footer>
+  140:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  141    </footer>     
+  142  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/new.html.erb:
+   47  </div>
+   48    <footer>
+   49:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   50    </footer>     
+   51  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/qualificacoes/show.html.erb:
+   78  </div>
+   79    <footer>
+   80:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   81    </footer>     
+   82  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/edit.html.erb:
+   67  </div>
+   68    <footer>
+   69:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   70    </footer>     
+   71  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/index.html.erb:
+  140  </div>
+  141    <footer>
+  142:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  143    </footer>     
+  144  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/new.html.erb:
+   63  </div>
+   64    <footer>
+   65:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   66    </footer>     
+   67  </body>
+
+/home/r3cotia/Desktop/Restaurante/app/views/restaurantes/show.html.erb:
+   79  </div>
+   80    <footer>
+   81:       <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+   82    </footer>     
+   83  </body>
+
+25 matches across 25 files

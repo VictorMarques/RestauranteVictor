@@ -1,0 +1,143 @@
+<html lang="en">
+<head>
+    <title>Restaurantes</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
+  </head>
+<body>
+<div class="bg-top">
+
+<div id="user_nav" align= "center">
+  <% if user_signed_in? %>
+    Entrou como <%= current_user.email %>. Não é você?
+    <%= link_to "Sair", destroy_user_session_path, :method => :delete %>
+  <% else %>
+    <%= link_to "Casdastrar-se", new_user_registration_path %> ou <%= link_to "Entrar", new_user_session_path %>
+  <% end %>
+</div>
+<div class="bgr">
+    <header>
+      <h1><a href="file:///C:/Users/Emidio/Desktop/Home/home.html"><img src="https://lh6.googleusercontent.com/-uW7BA4WRbJ8/UO2meYp5j2I/AAAAAAAAAFY/yVGTQIVj5_Y/s350/logo.jpg" alt=""></a></h1>
+        <nav>  
+            <ul class="menu">
+              <li ><a href="http://localhost:3000/home">Home</a></li>
+              <li><a href="http://localhost:3000/restaurantes">Restaurantes</a></li>
+              <li><a href="http://localhost:3000/clientes">Clientes</a></li>
+              <li class="current" align="center"><a href="http://localhost:3000/qualificacoes">Qualificacoes</a></li>
+              <li><a href="http://localhost:3000/comentarios">Comentarios</a></li>
+            </ul>
+         </nav>
+    </header>
+<section id="content"><div class="ic"></div>
+       <div class="block-1">
+        <div class="border-right">
+            <div class="block-1-title">
+                <span>01.</span>
+                <div class="text-1">Melhor<strong> Cozinha</strong></div>
+                <strong class="clear"></strong>
+            </div>
+            <p class="border-1">Em nosso site é possível cadastrar os resturante, comída típica do mesmo, saber a nota de cada um dada pelo próprio cliente e muito mais</p>
+            <a href="#" class="link-1">leia mais</a>
+        </div>
+        <div class="border-right">
+            <div class="block-1-title">
+                <span>02.</span>
+                <div class="text-1">Melhor para<strong>o Cliente</strong></div>
+                <strong class="clear"></strong>
+            </div>
+            <p class="border-1">Cadastre os clientes e tenha um controle melhor dos cadastros,veja também as críticas do cliente para com os restaurantes </p>
+            <a href="#" class="link-1">leia mais</a>
+        </div>
+        <div class="border-right">
+            <div class="block-1-title">
+                <span>03.</span>
+                <div class="text-3">Controle dos<strong>dados</strong></div>
+                <strong class="clear"></strong>
+            </div>
+            <p class="border-1"> Tenha acesso aos dados do cliente, restaurante que o mesmo utilizou os serviços, a nota que o cliente deu ao estabelecimento e valor total gasto</p>
+            <a href="#" class="link-1">leia mais</a>
+        </div>
+        <div class="block-1-last">
+            <div class="block-1-title">
+                <span>04.</span>
+                <div class="text-4">Visão<strong>ampla</strong></div>
+                <strong class="clear"></strong>
+            </div>
+          <p class="border-1">Tenha uma visão sistemática de todos os restaurantes e seus pratos  cadastrados com a página de comentários destinada aos clientes</p>
+            <a href="#" class="link-1">leia mais</a>
+        </div>
+       </div>
+
+    <div class="block-2 pad-1">
+        <div class="box-2 top-2"></div>
+            
+            
+<table border="1" align="center" width="948">
+    <div align="center">
+         <font face="Purisa" class="h3-line top-1"  class="h2-line"><h2 >Listagem de Qualificações</div></h2></font></td><br>
+
+        <td class="t" width="150">Nome cliente</td>
+        <td class="t" width="150">Restaurante</td>
+        <td class="t" width="150">valor gasto</td>
+        <td class="t" width="150">Nota</td>
+        <td class="t" width="250">Controle de cadastros</td>
+  </tr>
+</table>
+<table>
+<% @qualificacoes.each do |qualificacao| %>
+  <tr>
+    <td width="189"><%= qualificacao.cliente.nome %></td>
+    <td width="189"><%= qualificacao.restaurante.nome %></td>
+    <td width="189"><%= qualificacao.nota %></td>
+    <td width="189"><%= qualificacao.valor_gasto %></td>
+    <td width="63"><%= link_to 'Mostrar', qualificacao %></td>
+    <td width="63"><%= link_to 'Editar', edit_qualificacao_path(qualificacao) %></td>
+    <td width="63"><%= link_to 'Remover',qualificacao, method: :delete, data: { confirm: 'Você tem certeza?'}%></td> 
+   
+    
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'Nova Qualificacao', new_qualificacao_path %>
+
+
+      <div class="clear"></div>
+        <div class="block-3">
+          <div class="h3">
+            <h3 class="h3-line-2">Most delicious:</h3><br><br>
+            </div>
+            <div class="box-3">
+              <div width="100%" align="center" cellpadding="6">
+                
+                  <div class="img-border"><img src="https://lh5.googleusercontent.com/-s49qRm7OunY/UO2mgJlaqYI/AAAAAAAAAFo/pX9HYJPUp-w/s182/page1-img2.jpg" alt=""></div>
+
+                <div class="img-border"><img src="https://lh3.googleusercontent.com/-5wuT-xqNWVY/UO2mgB9A8nI/AAAAAAAAAFs/mwVZ0ZRkunI/s182/page1-img3.jpg" alt=""></div>
+                
+            
+                  <div class="img-border"><img src="https://lh6.googleusercontent.com/-Vsb1dX6Gdqg/UO2mgleBDaI/AAAAAAAAAFw/j84mglJYLtM/s182/page1-img4.jpg" alt=""></div>
+                
+               
+              
+                  <div class="img-border"><img src="https://lh5.googleusercontent.com/-SF8N_XZFHOk/UO2mhM5iC3I/AAAAAAAAAF0/yNRVEfwLr40/s182/page1-img5.jpg" alt=""></div>
+                    </div>
+             
+           
+        </div>
+       </div>
+    </section> 
+
+
+
+
+</div>     
+</div>
+  <footer>
+      <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  </footer>     
+</body>
+</html>  

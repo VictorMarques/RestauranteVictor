@@ -1,0 +1,84 @@
+	
+	<html lang="en">
+<head>
+    <title>Restaurantes</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+  </head>
+<body>
+<div class="bg-top">
+
+<div id="user_nav" align= "center">
+  <% if user_signed_in? %>
+    Entrou como <%= current_user.email %>. Não é você?
+    <%= link_to "Sair", destroy_user_session_path, :method => :delete %>
+  <% else %>
+    <%= link_to "Casdastrar-se", new_user_registration_path %> ou <%= link_to "Entrar", new_user_session_path %>
+  <% end %>
+</div>
+<div class="bgr">
+    <header>
+      <h1><a href="file:///C:/Users/Emidio/Desktop/Home/home.html"><img src="https://lh6.googleusercontent.com/-uW7BA4WRbJ8/UO2meYp5j2I/AAAAAAAAAFY/yVGTQIVj5_Y/s350/logo.jpg" alt=""></a></h1>
+        <nav>  
+            <ul class="menu">
+              <li><a href="http://localhost:3000/home">Home</a></li>
+              <li  class="current" align="center"><a href="http://localhost:3000/restaurantes">Restaurantes</a></li>
+              <li><a href="http://localhost:3000/clientes">Clientes</a></li>
+              <li><a href="http://localhost:3000/qualificacoes">Qualificacoes</a></li>
+              <li><a href="http://localhost:3000/comentarios">Comentarios</a></li>
+            </ul>
+         </nav>
+    </header>
+        <section id="content"><div class=></div>
+    <div class="block-2 pad-1">
+        <div class="box-2 top-2"></div><font family="Purisa" size="3px" >
+	
+</font>
+
+<table border="1" width="100%" align="center" color="#000">
+				<td colspan="6" align="center"><font face="Purisa" class="h3-line top-1"  class="h2-line">
+
+					<%= render partial: "titulo" %><h2>
+Exibindo Restaurante</h2></font>
+	<p align=center>
+	<b>Nome: </b>
+	<%= @restaurante.nome %>
+	</p>
+	<p align=center>
+	<b>Endereço: </b>
+	<%= @restaurante.endereco %>
+	</p>
+	<p align=center>
+	<b>Especialidade: </b>
+	<%= @restaurante.especialidade %>
+	</p>
+
+<p>
+<b class = "titletable"><br/>
+<%= image_tag @restaurante.foto.url(:medium) %>
+</p>
+
+<%= link_to "Qualificar este restaurante", :controller => "qualificacoes", :action => "new", :restaurante => @restaurante %><br>
+<b> Nota média: </b>
+<%= @restaurante.qualificacoes.average(:nota) %><br />
+<b> Qualificações: </b>
+<%= @restaurante.qualificacoes.count %><br />
+<b>Preço médio: </b>
+<%= @restaurante.qualificacoes.average(:valor_gasto) %><br/><br/>
+
+
+<% unless @restaurante.comentarios.empty?%>
+<%= comentarios @restaurante %>
+<% end %>
+<%= novo_comentario(@restaurante) %></td>
+</table>
+<div align="right">
+<%= link_to 'Editar', action: 'edit', id: @restaurante  %>
+	<%= link_to 'Voltar', action: 'index'  %></div>
+</div>
+  <footer>
+      <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  </footer>     
+</body>
+</html>  

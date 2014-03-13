@@ -1,0 +1,734 @@
+Connecting to database specified by database.yml
+  [1m[36m (5.8ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateRestaurantes (20121207170203)
+Migrating to AddColumnEspecialistaToRestaurante (20121207170446)
+Migrating to CreatePratos (20121207180324)
+Migrating to CreateReceita (20121207181057)
+Migrating to CreateQualificacoes (20121207181822)
+Migrating to CreatePratosRestaurantesJoinTable (20121207184516)
+Migrating to CreateClientes (20121212155533)
+Migrating to CreateComentarios (20121213175509)
+Migrating to AddFotoColumnsToRestaurante (20121219162603)
+  [1m[35m (1.5ms)[0m  ALTER TABLE `restaurantes` ADD `foto_file_name` varchar(255)
+Mysql2::Error: Duplicate column name 'foto_file_name': ALTER TABLE `restaurantes` ADD `foto_file_name` varchar(255)
+Connecting to database specified by database.yml
+  [1m[36m (5.5ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateRestaurantes (20121207170203)
+Migrating to AddColumnEspecialistaToRestaurante (20121207170446)
+Migrating to CreatePratos (20121207180324)
+Migrating to CreateReceita (20121207181057)
+Migrating to CreateQualificacoes (20121207181822)
+Migrating to CreatePratosRestaurantesJoinTable (20121207184516)
+Migrating to CreateClientes (20121212155533)
+Migrating to CreateComentarios (20121213175509)
+Migrating to AddFotoColumnsToRestaurante (20121219162603)
+  [1m[35m (1.5ms)[0m  ALTER TABLE `restaurantes` ADD `foto_file_name` varchar(255)
+Mysql2::Error: Duplicate column name 'foto_file_name': ALTER TABLE `restaurantes` ADD `foto_file_name` varchar(255)
+Connecting to database specified by database.yml
+  [1m[36m (5.4ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateRestaurantes (20121207170203)
+Migrating to AddColumnEspecialistaToRestaurante (20121207170446)
+Migrating to CreatePratos (20121207180324)
+Migrating to CreateReceita (20121207181057)
+Migrating to CreateQualificacoes (20121207181822)
+Migrating to CreatePratosRestaurantesJoinTable (20121207184516)
+Migrating to CreateClientes (20121212155533)
+Migrating to CreateComentarios (20121213175509)
+Migrating to AddFotoColumnsToRestaurante (20121219162603)
+  [1m[35m (1.5ms)[0m  ALTER TABLE `restaurantes` ADD `foto_file_name` varchar(255)
+Mysql2::Error: Duplicate column name 'foto_file_name': ALTER TABLE `restaurantes` ADD `foto_file_name` varchar(255)
+Connecting to database specified by database.yml
+  [1m[36m (5.4ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateRestaurantes (20121207170203)
+Migrating to AddColumnEspecialistaToRestaurante (20121207170446)
+Migrating to CreatePratos (20121207180324)
+Migrating to CreateReceita (20121207181057)
+Migrating to CreateQualificacoes (20121207181822)
+Migrating to CreatePratosRestaurantesJoinTable (20121207184516)
+Migrating to CreateClientes (20121212155533)
+Migrating to CreateComentarios (20121213175509)
+Migrating to AddFotoColumnsToRestaurante (20121219162603)
+  [1m[35m (1.5ms)[0m  ALTER TABLE `restaurantes` ADD `foto_file_name` varchar(255)
+Mysql2::Error: Duplicate column name 'foto_file_name': ALTER TABLE `restaurantes` ADD `foto_file_name` varchar(255)
+Connecting to database specified by database.yml
+  [1m[36m (5.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateRestaurantes (20121207170203)
+Migrating to AddColumnEspecialistaToRestaurante (20121207170446)
+Migrating to CreatePratos (20121207180324)
+Migrating to CreateReceita (20121207181057)
+Migrating to CreateQualificacoes (20121207181822)
+Migrating to CreatePratosRestaurantesJoinTable (20121207184516)
+Migrating to CreateClientes (20121212155533)
+Migrating to CreateComentarios (20121213175509)
+Migrating to AddFotoColumnsToRestaurante (20121219164754)
+  [1m[35m (1.5ms)[0m  ALTER TABLE `restaurantes` ADD `foto_file_name` varchar(255)
+Mysql2::Error: Duplicate column name 'foto_file_name': ALTER TABLE `restaurantes` ADD `foto_file_name` varchar(255)
+Connecting to database specified by database.yml
+  [1m[36m (5.5ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateRestaurantes (20121207170203)
+Migrating to AddColumnEspecialistaToRestaurante (20121207170446)
+Migrating to CreatePratos (20121207180324)
+Migrating to CreateReceita (20121207181057)
+Migrating to CreateQualificacoes (20121207181822)
+Migrating to CreatePratosRestaurantesJoinTable (20121207184516)
+Migrating to CreateClientes (20121212155533)
+Migrating to CreateComentarios (20121213175509)
+Migrating to AddFotoColumnsToRestaurante (20121219165554)
+  [1m[35m (1.4ms)[0m  ALTER TABLE `restaurantes` ADD `foto_file_name` varchar(255)
+Mysql2::Error: Duplicate column name 'foto_file_name': ALTER TABLE `restaurantes` ADD `foto_file_name` varchar(255)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Unable to load receitum, underlying cause No such file to load -- receitum 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+Unable to load qualificacaco, underlying cause No such file to load -- qualificacaco 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+Connecting to database specified by database.yml
+Unable to load receitum, underlying cause No such file to load -- receitum 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+Unable to load qualificacaco, underlying cause No such file to load -- qualificacaco 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+  [1m[36m (0.5ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.5ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.4ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.5ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.5ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.7ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.7ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.6ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.7ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.7ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.5ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.6ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.5ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.4ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.6ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+Connecting to database specified by database.yml
+Unable to load receitum, underlying cause No such file to load -- receitum 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+Connecting to database specified by database.yml
+Unable to load receitum, underlying cause No such file to load -- receitum 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+  [1m[36m (0.5ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.6ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.7ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.5ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.7ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.4ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.5ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.5ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+Connecting to database specified by database.yml
+Unable to load receitum, underlying cause No such file to load -- receitum 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+Connecting to database specified by database.yml
+Unable to load receitum, underlying cause No such file to load -- receitum 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+  [1m[36m (0.5ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (1.0ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.6ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (1.0ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.5ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.8ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.4ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.5ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+Connecting to database specified by database.yml
+Unable to load receitum, underlying cause No such file to load -- receitum 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+Connecting to database specified by database.yml
+Unable to load receitum, underlying cause No such file to load -- receitum 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+  [1m[36m (0.5ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.5ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (1.0ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.5ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.5ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (1.0ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.4ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.4ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.6ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.6ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.4ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.5ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+Connecting to database specified by database.yml
+Unable to load receitum, underlying cause No such file to load -- receitum 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+Connecting to database specified by database.yml
+Unable to load receitum, underlying cause No such file to load -- receitum 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+Connecting to database specified by database.yml
+Unable to load receitum, underlying cause No such file to load -- receitum 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/unit/cliente_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+Connecting to database specified by database.yml
+Unable to load receitum, underlying cause No such file to load -- receitum 
+
+ /home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:317:in `rescue in depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:312:in `depend_on'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:225:in `require_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:767:in `try_to_load_dependency'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:782:in `block in require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:779:in `require_fixture_classes'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/activerecord-3.2.8/lib/active_record/fixtures.rb:762:in `fixtures'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:10:in `<class:TestCase>'
+/home/rb1/Área de trabalho/projeto1/test/test_helper.rb:5:in `<top (required)>'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `require'
+/home/rb1/Área de trabalho/projeto1/test/functional/clientes_controller_test.rb:1:in `<top (required)>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `require'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:10:in `block (2 levels) in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `each'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:9:in `block in <main>'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `select'
+/home/rb1/.rvm/gems/ruby-1.9.3-p194/gems/rake-10.0.2/lib/rake/rake_test_loader.rb:4:in `<main>'
+  [1m[36m (0.6ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.6ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.9ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.6ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.6ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.7ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.4ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.5ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.4ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.7ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.7ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.6ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.9ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.3ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (0.6ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m

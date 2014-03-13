@@ -1,0 +1,29 @@
+# base: &base
+#   adapter: postgresql
+#   username:
+#   password: 
+#   host: 127.0.0.1
+#   encoding: utf8
+
+base: &base
+  adapter: postgresql
+  username: postgres
+  password: N0nen0ne
+  host: 127.0.0.1
+  encoding: utf8
+
+development:
+  database: vota_prato_development
+  <<: *base     
+
+
+# Warning: The database defined as "test" will be erased and
+# re-generated from your development database when you run "rake".
+# Do not set this db to the same as development or production.
+test:
+  database: vota_prato_test
+  <<: *base
+
+production:
+  database: vota_prato_production
+  <<: *base

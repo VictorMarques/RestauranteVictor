@@ -1,0 +1,124 @@
+body {
+
+
+   color: #000;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+.t{
+  backgroud-image: url("https://plus.google.com/u/0/photos/113253484863642083603/albums/5829671942053006641/5830759695970938786?authkey=CNLvrpH1m-X8Ig");
+  widht: 537px;
+}
+
+p {
+
+  font-family: verdana;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+ol {
+  font-family: arial;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+ul {
+  font-family: helvetica;
+  font-size: 13px;
+  line-height: 18px;
+  padding-left: 600px;
+}
+
+td {
+
+  font-family: sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+pre {
+
+  background-color: #eee;
+  padding: 10px;
+  font-size: 11px;
+}
+
+a {
+  color: #1E90FF;
+  &:visited {
+    color: #666;
+  }
+  &:hover {
+    text-align: center;
+    color: #FF0000;
+    background-color: #FFFF00;
+    font-size: 14px;
+    -moz-transition: 1.0s linear;
+  }
+}
+
+div {
+  &.field, &.actions {
+    margin-bottom: 10px;
+  }
+}
+
+#notice {
+  color: green;
+}
+
+.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+#error_explanation {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 0;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+  h2 {
+    text-align: left;
+    font-weight: bold;
+    padding: 5px 5px 5px 15px;
+    font-size: 12px;
+    margin: -7px;
+    margin-bottom: 0px;
+    background-color: #c00;
+    color: #fff;
+  }
+  ul li {
+    font-size: 12px;
+    list-style: square;
+  }
+}
+.img3 {
+  background-image: url("home/rb1/%C3%81rea%20de%20trabalho/links.png");
+  width: 761px;
+  height: 26px;
+}
+
+.img2 {
+  background-image: url("http://th04.deviantart.net/fs71/PRE/f/2012/226/2/8/ics_basic_android_wallpaper_by_bobakazooboy-d5b12qv.png");
+  width: 948px;
+  height: 100px;
+}
+
+.tablecor{
+  background: rgba(255,255,255, 0.5);
+}
+.tablecor2{
+  background: rgba(139, 90, 43, 0.3);
+}
+.t2{
+  display: block;
+  width: 280px;
+  height: 200px;
+  -webkit-border-image: url(img/t2.png) 10 stretch;
+  -moz-border-image: url(img/t2.png) 10 stretch;
+  -o-border-image: url(img/t2.png) 10 stretch;
+}

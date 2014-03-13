@@ -1,0 +1,71 @@
+<html lang="en">
+<head>
+    <title>Clientes</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+  </head>
+<body>
+<div class="bg-top">
+  
+<div id="user_nav" align= "center">
+  <% if user_signed_in? %>
+    Entrou como <%= current_user.email %>. Não é você?
+    <%= link_to "Sair", destroy_user_session_path, :method => :delete %>
+  <% else %>
+    <%= link_to "Casdastrar-se", new_user_registration_path %> ou <%= link_to "Entrar", new_user_session_path %>
+  <% end %>
+</div>
+<div class="bgr">
+    <header>
+      <h1><a href="file:///C:/Users/Emidio/Desktop/Home/home.html"><img src="https://lh6.googleusercontent.com/-uW7BA4WRbJ8/UO2meYp5j2I/AAAAAAAAAFY/yVGTQIVj5_Y/s350/logo.jpg" alt=""></a></h1>
+        <nav>  
+            <ul class="menu">
+              <li><a href="http://localhost:3000/home">Home</a></li>
+              <li><a href="http://localhost:3000/restaurantes">Restaurantes</a></li>
+              <li><a href="http://localhost:3000/clientes">Clientes</a></li>
+              <li><a href="http://localhost:3000/qualificacoes">Qualificacoes</a></li>
+              <li class="current" align="center"><a href="http://localhost:3000/comentarios">Comentarios</a></li>
+            </ul>
+         </nav>
+    </header>
+        <section id="content"><div class=></div>
+    <div class="block-2 pad-1">
+        <div class="box-2 top-2"></div>
+            
+<table  align="center" width="100%" border="1">
+                <div align="center">
+                <font face="Purisa" class="h3-line top-1"  class="h2-line"><h2 >Exibindo Comentários</div></h2></font></td>
+                <tr><br>
+
+<div align="center"><p id="notice"><%= notice %></p>
+
+<p>
+  <b>Conteudo:</b>
+  <%= @comentario.conteudo %>
+</p>
+
+<p>
+  <b>Comentavel:</b>
+  <%= @comentario.comentavel_id %>
+</p>
+
+<p>
+  <b>Comentavel type:</b>
+  <%= @comentario.comentavel_type %><br>
+</p></div>
+</font></td></table>
+
+<div align="right">
+<%= link_to 'Edit', edit_comentario_path(@comentario) %> 
+<%= link_to 'Voltar', comentarios_path %></div>
+
+
+
+</div>     
+</div>
+  <footer>
+      <p>Desenvolvido por: Willy H. da SIlva Emidio e Victor Marques<br>© 2014 Fatec Carapicuiba.</p> 
+  </footer>     
+</body>
+</html>  
