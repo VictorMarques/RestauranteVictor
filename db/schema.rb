@@ -16,30 +16,30 @@ ActiveRecord::Schema.define(:version => 20130117175651) do
   create_table "clientes", :force => true do |t|
     t.string   "nome",       :limit => 80
     t.string   "idade"
-    t.datetime "created_at",               :null => false
-    t.datetime "updated_at",               :null => false
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "comentarios", :force => true do |t|
     t.text     "conteudo"
     t.integer  "comentavel_id"
     t.string   "comentavel_type"
-    t.datetime "created_at",      :null => false
-    t.datetime "updated_at",      :null => false
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   add_index "comentarios", ["comentavel_id"], :name => "index_comentarios_on_comentavel_id"
   add_index "comentarios", ["comentavel_type"], :name => "index_comentarios_on_comentavel_type"
 
   create_table "homes", :force => true do |t|
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "pratos", :force => true do |t|
     t.string   "nome",       :limit => 80
-    t.datetime "created_at",               :null => false
-    t.datetime "updated_at",               :null => false
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "pratos_restaurantes", :id => false, :force => true do |t|
@@ -52,8 +52,8 @@ ActiveRecord::Schema.define(:version => 20130117175651) do
     t.integer  "restaurante_id"
     t.float    "nota"
     t.float    "valor_gasto"
-    t.datetime "created_at",     :null => false
-    t.datetime "updated_at",     :null => false
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   add_index "qualificacoes", ["cliente_id"], :name => "index_qualificacoes_on_cliente_id"
@@ -62,15 +62,15 @@ ActiveRecord::Schema.define(:version => 20130117175651) do
   create_table "receita", :force => true do |t|
     t.integer  "prato_id"
     t.text     "conteudo"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "restaurantes", :force => true do |t|
     t.string   "nome",              :limit => 80
     t.string   "endereco"
-    t.datetime "created_at",                      :null => false
-    t.datetime "updated_at",                      :null => false
+    t.datetime "created_at"
+    t.datetime "updated_at"
     t.string   "especialidade"
     t.string   "foto_file_name"
     t.string   "foto_content_type"
@@ -89,8 +89,8 @@ ActiveRecord::Schema.define(:version => 20130117175651) do
     t.datetime "last_sign_in_at"
     t.string   "current_sign_in_ip"
     t.string   "last_sign_in_ip"
-    t.datetime "created_at",                             :null => false
-    t.datetime "updated_at",                             :null => false
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   add_index "users", ["email"], :name => "index_users_on_email", :unique => true

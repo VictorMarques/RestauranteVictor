@@ -8,17 +8,17 @@ class RestauranteTest < ActiveSupport::TestCase
   
   def test_restaurante
   	restaurante = Restaurante.new(
-  		:nome => restaurantes(:Willy H. da SIlva).nome, 
-  		:endereco => restaurantes(:Willy H. da SIlva).endereco,
-  		:especialidade => restaurantes(:Willy H. da SIlva).especialidade)
+  		:nome => restaurantes(:renato).nome, 
+  		:endereco => restaurantes(:renato).endereco,
+  		:especialidade => restaurantes(:renato).especialidade)
 
   	msg = "restaurante nao foi salvo. "
   	+ "errors: ${restaurante.errors.inspect}"
   	assert restaurante.save, msg
 
-  	restaurante_Willy H. da SIlva_copia = Restaurante.find(restaurante.id)
+  	restaurante_renato_copia = Restaurante.find(restaurante.id)
   	
-  	assert_equal restaurante.nome, restaurante_Willy H. da SIlva_copia.nome
+  	assert_equal restaurante.nome, restaurante_renato_copia.nome
   end
 end
 

@@ -8,9 +8,9 @@ class RestaurantesControllerTest < ActionController::TestCase
   fixtures :restaurantes
 
 def test_procura_restaurante
-	get :busca, :nome => 'Willy H. da SIlva'
+	get :busca, :nome => 'Renato'
 	assert_not_nil assigns(:restaurante)
-assert_equal restaurantes(:Willy H. da SIlva).nome, assigns(:restaurante).nome
+assert_equal restaurantes(:renato).nome, assigns(:restaurante).nome
 assert_redirected_to :action => 'show'
 end
 
